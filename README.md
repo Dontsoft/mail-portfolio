@@ -41,4 +41,4 @@ Inline CSS and optimized code – Best code you can get
 - Gmail App for android is not fully supported.
 
 ## License
-All contents of this theme are licensed under the MIT license.
+All contents of this theme are licensed under the [MIT license](https://github.com/Slicejack/mail-portfolio/blob/master/LICENSE).
