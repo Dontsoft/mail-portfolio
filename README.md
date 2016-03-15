@@ -36,6 +36,9 @@ Inline CSS and optimized code – Best code you can get
 - Outlook.com
 - Yahoo!
 
+## Demo
+You can preview this email template here: http://slicejack.github.io/mail-portfolio/
+
 ## Things to note
 - Some Outlook versions doesn’t render Google fonts properly.
 - Gmail App for android is not fully supported.
